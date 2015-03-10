@@ -1,0 +1,32 @@
+{
+  "name": "recipes",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests",
+    "obj",
+    "bin",
+    "RecipesFullStack.csproj",
+    "RecipesFullStack.csproj.user"
+  ],
+  "dependencies": {
+    "jquery": "2.0.3",
+    "angular": "1.2.8",
+    "angular-route": "1.2.8",
+    "angular-mocks": "1.2.8",
+    "requirejs": "2.1.10"
+  },
+  "resolutions": {
+    "angular": "1.3.14",
+    "angular-route": "~1.3.14"
+  },
+  "devDependencies": {
+    "angular-route": "~1.3.14",
+    "bootstrap": "~3.3.2",
+    "bootswatch-dist": "cerulean"
+  }
+}
